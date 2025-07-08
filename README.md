@@ -37,9 +37,13 @@ This is a smart, weather-aware travel itinerary generator powered by LLM agents 
 
 ## Demo
 
-![Input Form](images/input.png)
-![Generated Itinerary](images/itinerary.png)
-![Interactive Map](images/map.png)
+<h3 align="center">App Demo</h3>
+<p align="center">
+  <img src="images/input.png" width="30%" alt="Input Form"/>
+  <img src="images/itinerary.png" width="30%" alt="Itinerary"/>
+  <img src="images/map.png" width="30%" alt="Map View"/>
+</p>
+
 
 Try it live here 👉 [Hugging Face Space](https://huggingface.co/spaces/Dhanishtajaggi/smart_travel_itinerary)
 
